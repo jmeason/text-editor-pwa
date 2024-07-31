@@ -7,3 +7,5 @@ Clone Repository
 Install dependencies with npm install
 Buil the client with npm run build 
 Start the application with npm run start:dev
+## Deploy link
+https://text-editor-pwa-y6gv.onrender.com
